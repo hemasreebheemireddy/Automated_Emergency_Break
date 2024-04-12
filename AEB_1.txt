@@ -1,0 +1,1 @@
+[TASK-1195] Select and integrate appropriate sensor technology (radar, camera, LiDAR) for object detection
