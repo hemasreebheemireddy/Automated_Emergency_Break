@@ -1,0 +1,1 @@
+The vehicle shall perform an emergency break if there is a cyclist in the activation zone
